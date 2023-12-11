@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sarathycablesandnetworks/static/css/main.19c3be1a.css",
-    "main.js": "/sarathycablesandnetworks/static/js/main.22089143.js",
-    "static/js/787.a0c789cf.chunk.js": "/sarathycablesandnetworks/static/js/787.a0c789cf.chunk.js",
-    "static/media/gtpl.jpg": "/sarathycablesandnetworks/static/media/gtpl.60bd123c8dbdaba02a17.jpg",
-    "static/media/22.jpg": "/sarathycablesandnetworks/static/media/22.802a5821a9fc1529721e.jpg",
-    "static/media/2.jpg": "/sarathycablesandnetworks/static/media/2.ab6f4327ab3097486aca.jpg",
-    "static/media/cablelogo.jpeg": "/sarathycablesandnetworks/static/media/cablelogo.c08df91719327c938e38.jpeg",
-    "static/media/smarttv.jpeg": "/sarathycablesandnetworks/static/media/smarttv.11d1b74bcf9e20939971.jpeg",
-    "static/media/bsnl.png": "/sarathycablesandnetworks/static/media/bsnl.8b4d77db5015ff8f10df.png",
-    "index.html": "/sarathycablesandnetworks/index.html",
-    "main.19c3be1a.css.map": "/sarathycablesandnetworks/static/css/main.19c3be1a.css.map",
-    "main.22089143.js.map": "/sarathycablesandnetworks/static/js/main.22089143.js.map",
-    "787.a0c789cf.chunk.js.map": "/sarathycablesandnetworks/static/js/787.a0c789cf.chunk.js.map"
+    "main.css": "/sarathycables-networks/static/css/main.1587b05c.css",
+    "main.js": "/sarathycables-networks/static/js/main.b2e7e3e2.js",
+    "static/js/787.a0c789cf.chunk.js": "/sarathycables-networks/static/js/787.a0c789cf.chunk.js",
+    "static/media/gtpl.jpg": "/sarathycables-networks/static/media/gtpl.60bd123c8dbdaba02a17.jpg",
+    "static/media/22.jpg": "/sarathycables-networks/static/media/22.802a5821a9fc1529721e.jpg",
+    "static/media/2.jpg": "/sarathycables-networks/static/media/2.ab6f4327ab3097486aca.jpg",
+    "static/media/cablelogo.jpeg": "/sarathycables-networks/static/media/cablelogo.c08df91719327c938e38.jpeg",
+    "static/media/smarttv.jpeg": "/sarathycables-networks/static/media/smarttv.11d1b74bcf9e20939971.jpeg",
+    "static/media/bsnl.png": "/sarathycables-networks/static/media/bsnl.8b4d77db5015ff8f10df.png",
+    "index.html": "/sarathycables-networks/index.html",
+    "main.1587b05c.css.map": "/sarathycables-networks/static/css/main.1587b05c.css.map",
+    "main.b2e7e3e2.js.map": "/sarathycables-networks/static/js/main.b2e7e3e2.js.map",
+    "787.a0c789cf.chunk.js.map": "/sarathycables-networks/static/js/787.a0c789cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c3be1a.css",
-    "static/js/main.22089143.js"
+    "static/css/main.1587b05c.css",
+    "static/js/main.b2e7e3e2.js"
   ]
 }
